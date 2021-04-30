@@ -3,7 +3,7 @@
 from requests import get
 from importlib import import_module
 
-where = "https://raw.githubusercontent.com/An0nimia/plugin.poorflix.it/master/sites.json"
+where = "https://raw.githubusercontent.com/wearelegionerseka/plugin.video.darkmovie/master/sites.json"
 sites = get(where).json()
 sites_film = []
 sites_serietv = []
