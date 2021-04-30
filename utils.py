@@ -1,12 +1,11 @@
 waste = {
-	"plot": "EHY TU. SEI BELLISSIMO =)",
+	"plot": "[B][COLOR lime]Proudly Served By Dark_Legion_Production[/COLOR][/B]",
 	"mediatype": "movie"
 }
 
 def optimize_title(title):
 	title = (
 		title
-		.encode("utf-8")
 		.lower()
 		.replace(" and ", "&")
 		.replace("&amp;", "&")
