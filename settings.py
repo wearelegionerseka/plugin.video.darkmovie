@@ -20,62 +20,62 @@ next_image = "images/next.png"
 movieDB_api_key = "8804be4f30f706e9e0ec40c32d961635"
 
 menu_items = [
-	("Film", movie_image),
-	("Serie TV", tvshow_image),
+	("[B][COLOR lime]Film[/COLOR][/B]", movie_image),
+	("[B][COLOR lime]Serie TV[/COLOR][/B]", tvshow_image),
 ]
 
 film_menu_items = [
-	("Ricerca film", search_movie_image),
-	("Ricerca persona film", movie_search_people_image),
-	("Film famosi", movie_most_popular_image),
-	("Film votati belli", movie_most_voted_image),
-	("Scopri film", movie_highly_rated_image),
-	("Film dell'anno ?", movie_years_image),
-	("Film per genere", movie_genres_image)
+	("[B][COLOR lime]Ricerca film[/COLOR][/B]", search_movie_image),
+	("[B][COLOR lime]Ricerca persona film[/COLOR][/B]", movie_search_people_image),
+	("[B][COLOR lime]Film i piu popolari[/COLOR][/B]", movie_most_popular_image),
+	("[B][COLOR lime]Film i piu votati[/COLOR][/B]", movie_most_voted_image),
+	("[B][COLOR lime]Film Altamente valutati[/COLOR][/B]", movie_highly_rated_image),
+	("[B][COLOR lime]Film dell'anno[/COLOR][/B]", movie_years_image),
+	("[B][COLOR lime]Film per genere[/COLOR][/B]", movie_genres_image)
 ]
 
 tvshow_menu_items = [
-	("Ricerca serie TV", search_tvshow_image),
-	("Ricerca persona serie TV", tvshow_search_people_image),
-	("Serie TV famosi", tvshow_most_popular_image),
-	("Serie TV votati belli", tvshow_most_voted_image),
-	("Scopri serie TV", tvshow_highly_rated_image),
-	("Serie TV dell'anno ?", tvshow_years_image),
-	("Serie TV per genere", tvshow_genres_image)
+	("[B][COLOR lime]Ricerca serie TV[/COLOR][/B]", search_tvshow_image),
+	("[B][COLOR lime]Ricerca persona serie TV[/COLOR][/B]", tvshow_search_people_image),
+	("[B][COLOR lime]Serie TV famosi[/COLOR][/B]", tvshow_most_popular_image),
+	("[B][COLOR lime]Serie TV le piu votate[/COLOR][/B]", tvshow_most_voted_image),
+	("[B][COLOR lime]Serie TV Altamente valutate[/COLOR][/B]", tvshow_highly_rated_image),
+	("[B][COLOR lime]Serie TV dell'anno[/COLOR][/B]", tvshow_years_image),
+	("[B][COLOR lime]Serie TV per genere[/COLOR][/B]", tvshow_genres_image)
 ]
 
 messages = {
 	"start_search": {
-		"title": "E' partito fratellì",
-		"text": "Inizio ricerca..."
+		"title": "[B][COLOR lime]In Lavorazione[/COLOR][/B]",
+		"text": "[B][COLOR lime]Inizio ricerca...[/COLOR][/B]"
 	},
 
 	"movie": {
-		"popular": "Ricerca film famosi in corso...",
-		"top_rated": "Ricerca film più votati in corso...",
-		"discover": "Oddio sto togliendo la coperta ai film. Capito? Sto scoprendo nuovi film =)",
-		"genre": "Ricerca film per genere in corso...",
-		"year": "Ricerca film per anno in corso...",
-		"default": "Sto cercando film con questo titolo"
+		"popular": "[B][COLOR lime]Ricerca film famosi in corso...[/COLOR][/B]",
+		"top_rated": "[B][COLOR lime]Ricerca film più votati in corso...[/COLOR][/B]",
+		"discover": "[B][COLOR lime]Sto scoprendo nuovi film...",
+		"genre": "[B][COLOR lime]Ricerca film per genere in corso...[/COLOR][/B]",
+		"year": "[B][COLOR lime]Ricerca film per anno in corso...[/COLOR][/B]",
+		"default": "[B][COLOR lime]Sto cercando film con questo titolo[/COLOR][/B]"
 	},
 
 	"tvshow": {
-		"popular": "Ricerca serie tv famosi in corso...",
-		"top_rated": "Ricerca serie tv più votati in corso...",
-		"discover": "Cosa pensi che ripeterò la battuta?",
-		"genre": "Ricerca serie tv per genere in corso...",
-		"year": "Ricerca serie tv per anno in corso...",
-		"default": "Sto cercando serie tv con questo titolo"
+		"popular": "[B][COLOR lime]Ricerca serie tv famosi in corso...[/COLOR][/B]",
+		"top_rated": "[B][COLOR lime]Ricerca serie tv più votati in corso...[/COLOR][/B]",
+		"discover": "[B][COLOR lime]Sto scoprendo nuove serie tv...[/COLOR][/B]",
+		"genre": "[B][COLOR lime]Ricerca serie tv per genere in corso...[/COLOR][/B]",
+		"year": "[B][COLOR lime]Ricerca serie tv per anno in corso...[/COLOR][/B]",
+		"default": "[B][COLOR lime]Sto cercando serie tv con questo titolo[/COLOR][/B]"
 	},
 
 	"stream": {
-		"error_stream_title": "HO SFONDATO IL MURO",
-		"error_stream_text": "MA FARESHI STO C... DEVI FUNZIONARE"
+		"error_stream_title": "[B][COLOR red]ERRORE TITOLO STREAM[/COLOR][/B]",
+		"error_stream_text": "[B][COLOR red]ERRORE TESTO STREAM[/COLOR][/B]"
 	},
 
-	"person": "Se cercavi Bugo, spoiler non c'è =)",
-	"movie_list": "Ma quanto mi fai sgobbare?",
-	"tvshow_list": "Stai per ritrovarti nella selva oscura",
-	"episode": "Sei consapevole del fatto che andrai a dormire alle 4 del mattino, no?",
-	"playing": "Non sfondare il muro"
+	"person": "[B][COLOR lime]Persone[/COLOR][/B]",
+	"movie_list": "[B][COLOR lime]Lista Film[/COLOR][/B]",
+	"tvshow_list": "[B][COLOR lime]Lista Serie Tv[/COLOR][/B]",
+	"episode": "[B][COLOR lime]episodi[/COLOR][/B]",
+	"playing": "[B][COLOR lime]buona visione[/COLOR][/B]"
 }
