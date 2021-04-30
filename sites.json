@@ -126,6 +126,14 @@
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
+
+		},
+
+		"pitkini": {
+			"link": "https://pitkini.org/home/",
+			"is_cloudflare": false,
+			"timeout": 8,
+			"works": true
 		},
 
 		"serietvu": {
