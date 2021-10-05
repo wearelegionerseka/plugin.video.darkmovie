@@ -7,7 +7,7 @@ where = "https://raw.githubusercontent.com/wearelegionerseka/plugin.video.darkmo
 sites = get(where).json()
 sites_film = []
 sites_serietv = []
-
+# films contiene le chiavi per i moduli
 films = [
 	"altadefinizione7", "altadefinizione1",
 	"altadefinizione3", "altadefinizione2", "altadefinizione6",
