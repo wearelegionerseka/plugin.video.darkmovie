@@ -1,49 +1,49 @@
 {
 	"sites": {
 		"altadefinizione1": {
-			"link": "https://altadefinizione.cheap/",
+			"link": "https://altadefinizione.photos/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
 		},
 
 		"altadefinizione2": {
-			"link": "https://www.altadefinizione01.software/",
+			"link": "https://altadefinizione.network/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
 		},
 
 		"altadefinizione3": {
-			"link": "https://www.altadefinizione01.games/",
+			"link": "https://www.altadefinizione01.quest/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
 		},
 
 		"altadefinizione5": {
-			"link": "https://altadefinizione.gg/",
+			"link": "https://altadefinizione.desi/",
 			"is_cloudflare": false,
 			"timeout": 8,
-			"works": true
+			"works": false
 		},
 
 		"altadefinizione6": {
-			"link": "https://altadefinizione.la/",
+			"link": "https://altadefinizione.tw/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": false
 		},
 
 		"altadefinizione7": {
-			"link": "https://altadefinizione01.house/",
+			"link": "https://altadefinizione01.in/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
 		},
 
 		"altadefinizione8": {
-			"link": "https://www.altadefinizione.name/",
+			"link": "https://alta-definizione.site/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
@@ -57,35 +57,35 @@
 		},
 
 		"eurostreaming1": {
-			"link": "https://eurostreaming.center/",
+			"link": "https://eurostreaming.red/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
 		},
 
 		"eurostreaming2": {
-			"link": "https://www.eurostreaming.golf/",
+			"link": "https://www.eurostreaming.review/",
 			"is_cloudflare": false,
 			"timeout": 8,
-			"works": true
+			"works": false
 		},
 
 		"eurostreaming3": {
-			"link": "https://eurostreaming.blog/",
+			"link": "https://eurostreaming.digital/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
 		},
 
 		"piratestreaming": {
-			"link": "https://www.piratestreaming.review/",
+			"link": "https://www.piratestreaming.design/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
 		},
 
 		"serietvu": {
-			"link": "https://www.serietvu.link/",
+			"link": "https://www.serietvu.live/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
