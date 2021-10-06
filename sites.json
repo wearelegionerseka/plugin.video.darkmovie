@@ -20,7 +20,14 @@
 			"timeout": 8,
 			"works": false
 		},
-
+		
+                "altadefinizione5": {
+			"link": "https://altadefinizione.desi/",
+			"is_cloudflare": false,
+			"timeout": 8,
+			"works": true
+		},
+		
 		"altadefinizione6": {
 			"link": "https://altadefinizione.la/",
 			"is_cloudflare": false,
