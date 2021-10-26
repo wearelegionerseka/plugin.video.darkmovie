@@ -48,7 +48,7 @@ tvshow_menu_items = [
 
 messages = {
 	"start_search": {
-		"title": "[B][COLOR cyan]Attendere prego![/COLOR][/B]",
+		"title": "[B][COLOR cyan]Attendere prego         * BETA mod by Area69 *[/COLOR][/B]",
 		"text": "[B][COLOR lime]Inizio ricerca...[/COLOR][/B]"
 	},
 
@@ -79,6 +79,6 @@ messages = {
 	"person": "[B][COLOR lime]Ricerco Attore scelto in corso...[/COLOR][/B]",
 	"movie_list": "[B][COLOR lime]Lista Film[/COLOR][/B]",
 	"tvshow_list": "[B][COLOR lime]Lista Serie Tv[/COLOR][/B]",
-	"episode": "[B][COLOR lime]Episodi[/COLOR][/B]",
+	"episode": "[B][COLOR lime]Episodio[/COLOR][/B]",
 	"playing": "[B][COLOR lime]Buona Visione[/COLOR][/B]"
 }
