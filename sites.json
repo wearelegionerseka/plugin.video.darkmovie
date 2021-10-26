@@ -1,7 +1,7 @@
 {
 	"sites": {
 		"altadefinizione1": {
-			"link": "https://altadefinizione.cheap/",
+			"link": "https://altadefinizione.parts/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
