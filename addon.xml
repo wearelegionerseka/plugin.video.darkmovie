@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<addon id="plugin.video.darklegionmovie" name="[B][COLOR cyan]D[/COLOR][/B][B][COLOR lime]A[/COLOR][/B][B][COLOR cyan]R[/COLOR][/B][B][COLOR lime]K[/COLOR][/B][B][COLOR cyan]L[/COLOR][/B][B][COLOR lime]E[/COLOR][/B][B][COLOR cyan]G[/COLOR][/B][B][COLOR lime]I[/COLOR][/B][B][COLOR cyan]O[/COLOR][/B][B][COLOR lime]N[/COLOR][/B][B][COLOR blue]MOVIE_BETA[/COLOR][/B]" version="1.0" provider-name="DLP">
+<addon id="plugin.video.darklegionmovie" name="[B][COLOR cyan]D[/COLOR][/B][B][COLOR lime]A[/COLOR][/B][B][COLOR cyan]R[/COLOR][/B][B][COLOR lime]K[/COLOR][/B][B][COLOR cyan]L[/COLOR][/B][B][COLOR lime]E[/COLOR][/B][B][COLOR cyan]G[/COLOR][/B][B][COLOR lime]I[/COLOR][/B][B][COLOR cyan]O[/COLOR][/B][B][COLOR lime]N[/COLOR][/B][B][COLOR blue]MOVIE[/COLOR][/B]" version="1.0" provider-name="DLP">
 	<requires>
 		<import addon="xbmc.python" version="3.0.0"/>
 		<import addon="script.module.beautifulsoup4" version="4.6.0"/>
