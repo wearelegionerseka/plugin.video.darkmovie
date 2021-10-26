@@ -1,3 +1,3 @@
 # plugin.video.darkmovie
 
-Plugin per film e serie ricercati nel WEB
+Plugin per Film e Serie Tv ricercati nel WEB
