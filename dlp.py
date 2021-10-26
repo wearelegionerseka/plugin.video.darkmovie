@@ -1,6 +1,6 @@
-# Author: An0nimia 
+# Author: DLP
 # Mod: Area69
-# 24.10.2021
+# 26.10.2021
 import xbmc
 import xbmcgui
 import xbmcvfs
@@ -48,7 +48,7 @@ def get_url(**kwargs):
     return url
 
 def initialize(items):
-    xbmcplugin.setPluginCategory(_handle, '[B][COLOR lime]Menu [COLOR cyan]DarkMovie V_1.0[/COLOR][/B]')
+    xbmcplugin.setPluginCategory(_handle, '[B][COLOR lime]Menu [COLOR cyan]DarkMovie V_ BETA[/COLOR][/B]')
 
     for a in items:
         name = a[0]
