@@ -71,21 +71,21 @@
 		},
 
 		"eurostreaming1": {
-			"link": "https://eurostreaming.click/",
+			"link": "https://eurostreaming.lol/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
 		},
 
 		"eurostreaming2": {
-			"link": "https://www.eurostreaming.bond/",
+			"link": "https://eurostreaming.vote/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
 		},
 
 		"eurostreaming3": {
-			"link": "https://eurostreaming.house/",
+			"link": "https://www.eurostreaming01.club/",
 			"is_cloudflare": false,
 			"timeout": 8,
 			"works": true
@@ -116,7 +116,7 @@
 			"link": "https://www.serietvu.link/",
 			"is_cloudflare": false,
 			"timeout": 8,
-			"works": false
+			"works": true
 		}
 	}
 }
