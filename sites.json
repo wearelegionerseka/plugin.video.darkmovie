@@ -18,14 +18,14 @@
 			"link": "https://www.altadefinizione01.games/",
 			"is_cloudflare": false,
 			"timeout": 8,
-			"works": False
+			"works": false
 		},
 		
                 "altadefinizione4": {
 			"link": "https://www.altadefinizione01.games/",
 			"is_cloudflare": false,
 			"timeout": 8,
-			"works": False
+			"works": false
 		},
 		 
 		"altadefinizione5": {
@@ -53,7 +53,7 @@
 			"link": "https://www.altadefinizione.bond/",
 			"is_cloudflare": false,
 			"timeout": 8,
-			"works": False
+			"works": false
 		},
 
 		"cbo1": {
@@ -67,7 +67,7 @@
 			"link": "https://cineblog01.bid/",
 			"is_cloudflare": false,
 			"timeout": 8,
-			"works": False
+			"works": false
 		},
 
 		"cineblog012": {
@@ -123,7 +123,7 @@
 			"link": "https://www.serietvu.link/",
 			"is_cloudflare": false,
 			"timeout": 8,
-			"works": False
+			"works": false
 		}
 	}
 }
